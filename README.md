@@ -2,7 +2,7 @@
 
 - make an asynchronous fetch request to arrest API to get quotes
 
-- use a proxy API to solve dreaded cause error
+- use a proxy API to solve dreaded cors error
 
 - have a loader to load between quotes
 
